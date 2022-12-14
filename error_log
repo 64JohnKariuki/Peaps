@@ -1,0 +1,426 @@
+[07-Nov-2022 09:41:39 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:41:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/initialize.php:14
+Stack trace:
+#0 /home/launitco/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:41:39 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:41:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/initialize.php:14
+Stack trace:
+#0 /home/launitco/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:42:04 UTC] PHP Warning:  require_once(/include/config.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:42:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/include/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/initialize.php:14
+Stack trace:
+#0 /home/launitco/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:42:04 UTC] PHP Warning:  require_once(/include/config.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:42:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/include/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/initialize.php:14
+Stack trace:
+#0 /home/launitco/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:42:53 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/function.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 15
+[07-Nov-2022 09:42:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/function.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/initialize.php:15
+Stack trace:
+#0 /home/launitco/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/launitco/public_html/include/initialize.php on line 15
+[07-Nov-2022 09:42:54 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/function.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 15
+[07-Nov-2022 09:42:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/function.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/initialize.php:15
+Stack trace:
+#0 /home/launitco/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/launitco/public_html/include/initialize.php on line 15
+[07-Nov-2022 09:44:03 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/launitco/public_html/include/function.php on line 37
+[07-Nov-2022 09:44:04 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/launitco/public_html/include/function.php on line 37
+[07-Nov-2022 09:46:07 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:46:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/initialize.php:14
+Stack trace:
+#0 /home/launitco/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:46:07 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:46:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/initialize.php:14
+Stack trace:
+#0 /home/launitco/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:46:38 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:46:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/initialize.php:14
+Stack trace:
+#0 /home/launitco/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:46:39 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:46:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/initialize.php:14
+Stack trace:
+#0 /home/launitco/public_html/index.php(2): require_once()
+#1 {main}
+  thrown in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:35 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:36 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:37 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:38 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:38 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:38 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/config.php): failed to open stream: No such file or directory in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 09:47:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/launitco/public_html/launitco/include/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/launitco/public_html/include/initialize.php on line 14
+[07-Nov-2022 10:05:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/launitco/public_html/include/database.php:19
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(19): mysqli_connect()
+#1 /home/launitco/public_html/include/database.php(13): Database->open_connection()
+#2 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#3 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#4 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#5 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#6 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 19
+[07-Nov-2022 10:05:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/launitco/public_html/include/database.php:19
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(19): mysqli_connect()
+#1 /home/launitco/public_html/include/database.php(13): Database->open_connection()
+#2 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#3 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#4 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#5 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#6 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 19
+[07-Nov-2022 10:08:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/launitco/public_html/include/database.php:19
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(19): mysqli_connect()
+#1 /home/launitco/public_html/include/database.php(13): Database->open_connection()
+#2 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#3 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#4 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#5 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#6 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 19
+[07-Nov-2022 10:08:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/launitco/public_html/include/database.php:19
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(19): mysqli_connect()
+#1 /home/launitco/public_html/include/database.php(13): Database->open_connection()
+#2 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#3 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#4 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#5 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#6 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 19
+[07-Nov-2022 10:08:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/launitco/public_html/include/database.php:19
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(19): mysqli_connect()
+#1 /home/launitco/public_html/include/database.php(13): Database->open_connection()
+#2 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#3 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#4 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#5 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#6 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 19
+[07-Nov-2022 10:08:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/launitco/public_html/include/database.php:19
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(19): mysqli_connect()
+#1 /home/launitco/public_html/include/database.php(13): Database->open_connection()
+#2 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#3 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#4 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#5 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#6 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 19
+[07-Nov-2022 10:09:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'launitco_John'@'localhost' (using password: NO) in /home/launitco/public_html/include/database.php:19
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(19): mysqli_connect()
+#1 /home/launitco/public_html/include/database.php(13): Database->open_connection()
+#2 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#3 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#4 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#5 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#6 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 19
+[07-Nov-2022 10:09:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'launitco_John'@'localhost' (using password: NO) in /home/launitco/public_html/include/database.php:19
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(19): mysqli_connect()
+#1 /home/launitco/public_html/include/database.php(13): Database->open_connection()
+#2 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#3 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#4 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#5 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#6 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 19
+[07-Nov-2022 10:11:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/launitco/public_html/include/database.php:14
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#1 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#2 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#3 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#4 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 14
+[07-Nov-2022 10:11:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/launitco/public_html/include/database.php:14
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#1 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#2 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#3 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#4 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 14
+[07-Nov-2022 10:20:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/launitco/public_html/include/database.php:14
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#1 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#2 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#3 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#4 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 14
+[07-Nov-2022 10:20:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/launitco/public_html/include/database.php:14
+Stack trace:
+#0 /home/launitco/public_html/include/database.php(130): Database->__construct()
+#1 /home/launitco/public_html/include/accounts.php(2): require_once('/home/launitco/...')
+#2 /home/launitco/public_html/include/initialize.php(17): require_once('/home/launitco/...')
+#3 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#4 {main}
+  thrown in /home/launitco/public_html/include/database.php on line 14
+[07-Nov-2022 10:20:36 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/autonumbers.php on line 2
+[07-Nov-2022 10:20:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/autonumbers.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(18): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/autonumbers.php on line 2
+[07-Nov-2022 10:20:36 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/autonumbers.php on line 2
+[07-Nov-2022 10:20:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/autonumbers.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(18): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/autonumbers.php on line 2
+[07-Nov-2022 10:22:07 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/products.php on line 2
+[07-Nov-2022 10:22:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/products.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(19): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/products.php on line 2
+[07-Nov-2022 10:22:08 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/products.php on line 2
+[07-Nov-2022 10:22:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/products.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(19): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/products.php on line 2
+[07-Nov-2022 10:22:29 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/stockin.php on line 2
+[07-Nov-2022 10:22:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/stockin.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(20): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/stockin.php on line 2
+[07-Nov-2022 10:22:30 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/stockin.php on line 2
+[07-Nov-2022 10:22:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/stockin.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(20): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/stockin.php on line 2
+[07-Nov-2022 10:23:00 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/categories.php on line 2
+[07-Nov-2022 10:23:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/categories.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(21): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/categories.php on line 2
+[07-Nov-2022 10:23:00 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/categories.php on line 2
+[07-Nov-2022 10:23:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/categories.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(21): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/categories.php on line 2
+[07-Nov-2022 10:23:32 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/promos.php on line 2
+[07-Nov-2022 10:23:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/promos.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(23): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/promos.php on line 2
+[07-Nov-2022 10:23:33 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/promos.php on line 2
+[07-Nov-2022 10:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/promos.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(23): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/promos.php on line 2
+[07-Nov-2022 10:23:50 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/customers.php on line 2
+[07-Nov-2022 10:23:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/customers.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(24): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/customers.php on line 2
+[07-Nov-2022 10:23:50 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/customers.php on line 2
+[07-Nov-2022 10:23:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/customers.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(24): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/customers.php on line 2
+[07-Nov-2022 10:24:02 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/orders.php on line 2
+[07-Nov-2022 10:24:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/orders.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(25): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/orders.php on line 2
+[07-Nov-2022 10:24:02 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/orders.php on line 2
+[07-Nov-2022 10:24:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/orders.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(25): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/orders.php on line 2
+[07-Nov-2022 10:24:17 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/summary.php on line 2
+[07-Nov-2022 10:24:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/summary.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(26): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/summary.php on line 2
+[07-Nov-2022 10:24:18 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/summary.php on line 2
+[07-Nov-2022 10:24:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/summary.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(26): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/summary.php on line 2
+[07-Nov-2022 10:24:32 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/settings.php on line 2
+[07-Nov-2022 10:24:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/settings.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(27): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/settings.php on line 2
+[07-Nov-2022 10:24:32 UTC] PHP Warning:  require_once(/home/launitco/public_html/launitco/include/database.php): Failed to open stream: No such file or directory in /home/launitco/public_html/include/settings.php on line 2
+[07-Nov-2022 10:24:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/launitco/public_html/launitco/include/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/launitco/public_html/include/settings.php:2
+Stack trace:
+#0 /home/launitco/public_html/include/initialize.php(27): require_once()
+#1 /home/launitco/public_html/index.php(2): require_once('/home/launitco/...')
+#2 {main}
+  thrown in /home/launitco/public_html/include/settings.php on line 2
+[07-Nov-2022 10:24:45 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:24:45 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:24:48 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:24:48 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:25:20 UTC] PHP Warning:  Undefined property: mysqli_result::$AUTO in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:25:30 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:25:30 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:25:44 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:25:44 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:34:06 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:34:06 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:46:48 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:46:48 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:47:26 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:47:26 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:47:31 UTC] PHP Warning:  Undefined property: mysqli_result::$AUTO in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:47:37 UTC] PHP Warning:  Undefined property: mysqli_result::$AUTO in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:47:38 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:47:38 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:47:38 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:47:38 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:47:41 UTC] PHP Warning:  Undefined property: mysqli_result::$AUTO in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:38 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:38 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:38 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:38 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:44 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:44 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:44 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:44 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:45 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:45 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:45 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:45 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:46 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:46 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:51 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:51 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:56 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:56 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:56 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:56 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:57 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:57 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:57 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:57 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:58 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:49:58 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:21 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:21 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:21 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:21 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:22 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:22 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:23 UTC] PHP Warning:  Undefined property: mysqli_result::$AUTO in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:23 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:23 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:25 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:25 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:26 UTC] PHP Warning:  Undefined property: mysqli_result::$AUTO in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:29 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 10:50:29 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:31:13 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:31:13 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:31:41 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:31:41 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:32:08 UTC] PHP Warning:  Undefined property: mysqli_result::$AUTO in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:32:12 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:32:12 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:32:17 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:32:17 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:32:20 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:32:20 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:32:25 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 11:32:25 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 16:34:45 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 16:34:46 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 17:53:13 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 17:53:13 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 17:54:06 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 17:54:06 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 23:12:10 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[07-Nov-2022 23:12:10 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 03:57:01 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 03:57:01 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 03:57:08 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 03:57:08 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 04:49:05 UTC] PHP Warning:  Undefined property: mysqli_result::$AUTO in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:02 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:02 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:12 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:12 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:12 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:12 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:13 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:13 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:13 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:13 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:15 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:24:15 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:50:24 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:50:24 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:58:37 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:58:37 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:58:48 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:58:48 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:59:01 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:59:01 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:59:38 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:59:38 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:59:51 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 11:59:51 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 12:00:09 UTC] PHP Warning:  Undefined variable $res in /home/launitco/public_html/LogSignModal.php on line 94
+[08-Nov-2022 12:00:09 UTC] PHP Warning:  Attempt to read property "AUTO" on null in /home/launitco/public_html/LogSignModal.php on line 94
